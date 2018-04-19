@@ -1,0 +1,44 @@
+body {
+    background-color: beige
+}
+
+h1 { text-align:center;
+     padding: 20px;
+    margin-bottom: 20px;
+    
+    color: aqua;
+    background-color: black
+}
+
+h2 { padding: 10px;
+    margin-bottom: 10px;
+    color: blue;
+background-color: black
+}
+
+
+h4 { 
+    float: left;
+    top: 50%;
+    left: 50%;
+  }
+
+  h3 {
+    float: left;
+    width: 33.3%;
+  }
+
+  img {
+    float: left;
+  
+     box-shadow: 0 0 0 15px rgb(255, 255, 255), 0 0 0 25px #F6B616;
+     margin: 35px 16px 16px 35px;
+     width: 250px;
+     padding: 1% 1%;
+
+  <img src="paris.jpg" alt="Paris">
+</a>
+ }
+
+ 
+ 
